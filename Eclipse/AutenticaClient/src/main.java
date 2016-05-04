@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.smartcardio.CardException;
+//import javax.smartcardio.CardException;
 import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 
